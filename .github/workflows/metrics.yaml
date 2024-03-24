@@ -23,5 +23,7 @@ jobs:
           repositories: 1000
           repositories_forks: yes
           plugin_topics: yes
-          plugin_topics_limit: 0
+          plugin_topics_limit: 10
           plugin_topics_mode: icons
+          plugin_languages: yes
+          plugin_languages_limit: 10
