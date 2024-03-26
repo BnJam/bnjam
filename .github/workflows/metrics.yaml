@@ -38,5 +38,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_languages: yes
-          plugin_languages_ignored: jupyter-notebook
+          plugin_languages_ignored: jupyternotebook
           plugin_languages_limit: 10
